@@ -1,0 +1,18 @@
+{
+  "name": "scratchpad-temp",
+  "version": "1.0.0",
+  "description": "A quick and fast way to write temporary notes down.",
+  "main": "index.js",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build"
+  },
+  "keywords": [],
+  "author": "Cosmin Vasilache",
+  "license": "ISC",
+  "devDependencies": {
+    "vite": "^6.0.3",
+    "vite-plugin-html": "^3.2.2",
+    "vite-plugin-singlefile": "^2.1.0"
+  }
+}
